@@ -1,0 +1,13 @@
+*.log
+*.pid
+*.swp
+.env
+__pycache__/
+node_modules/
+.vscode/
+*.tar
+*.gz
+*.zip
+.dockerignore
+Dockerfile.*
+
